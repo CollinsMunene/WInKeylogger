@@ -1,2 +1,3 @@
 # WInKeylogger
-This is a keylogger created for capturing keys in windows system
+This is a keylogger created for capturing keys in windows system.
+Designed in C++
